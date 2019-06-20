@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="NewTest">
+    <classes>
+      <class name="com.Test.NewTest"/>
+       <class name="com.Test.firstproject"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
